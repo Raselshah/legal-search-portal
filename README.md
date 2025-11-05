@@ -37,6 +37,8 @@ You can build and run the services in containers.
 
 ### Backend
 
+```bash
 cd backend
 docker build -t backend .
 docker run -p 4000:4000 backend
+```
