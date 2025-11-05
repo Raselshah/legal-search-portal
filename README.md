@@ -20,9 +20,12 @@ npm run dev
 
 ### Frontend
 
+```bash
 cd frontend
 npm install
 npm run dev
+# run on http://localhost:3000
+```
 
 # Run on http://localhost:3000
 
